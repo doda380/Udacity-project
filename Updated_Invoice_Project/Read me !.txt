@@ -1,7 +1,0 @@
-New updated screen shots
-The delete button is workong as shown on the screen shot
-The MVC is done 
-The File oberation in the conrol package
-The test methon is done as shown in the screen shots
-
-Thanks for the feedback....
